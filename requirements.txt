@@ -6,3 +6,4 @@ scikit-learn
 yfinance
 prophet
 pandas
+plotly
