@@ -3,7 +3,7 @@
 # Stock Trend Analysis and Prediction with Prophet
 
 ## Problem Definition
-### Investors are always in dilemma on the best stock to invest in, to maximize return on investment, this was the rationale behind choice of datasets and project choice as it will enable investor to explore the profitability of investment options and make informed decision.
+### Investors are always in dilemma on the best stock to invest in, to maximize return on their investment. This was the rationale behind the project, to enable investor explore the profitability of investment options and make informed decision.
 
 ## The project aims to:
 ### 1. confirm the return on investment (ROI) on a stock with a view to determine its profitability by considering the ROI of the stock over a defined period
