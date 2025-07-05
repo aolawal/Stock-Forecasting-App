@@ -11,14 +11,14 @@
 
 ## Data Preprocessing & Exploratory Data Analysis (EDA)
 ## Procedure:
-### 1.The necessary libraries were imported
-### 2.The timeframe of the data to be downloaded from Yahoo Finance was defined and the necessary Ticker symbol was inserted for loading
-### 3.The datasets were pre-processed to prepare the data for analysis:
-### 4.The datasets were imported from Yahoo Finance and aggregated into a dataframe
-### 5.The index was reset, and the necessary data were extracted from the dataframe
-### 6.The model was trained to fit the pre-processed data using FB Prophet
-### 7.The model was evaluated to detect anomalies
-### 8.The model was used to predict the price of selected stock using Matplotlib and FB prophet..
+### 1. The necessary libraries were imported
+### 2. The timeframe of the data to be downloaded from Yahoo Finance was defined and the necessary Ticker symbol was inserted for loading
+### 3. The datasets were pre-processed to prepare the data for analysis:
+### 4. The datasets were imported from Yahoo Finance and aggregated into a dataframe
+### 5. The index was reset, and the necessary data were extracted from the dataframe
+### 6. The model was trained to fit the pre-processed data using FB Prophet
+### 7. The model was evaluated to detect anomalies
+### 8. The model was used to predict the price of selected stock using Matplotlib and FB prophet..
 
 
 ## Model Accuracy & Justification
@@ -32,7 +32,7 @@
 ### 2.	select the number of days of forecast you want and
 ### 3.	run the forecast
 
-** In return you will get the following output after clicking on the run the forecast button:
+## In return you will get the following output after clicking on the run the forecast button:
 ### 1.	Trend Analysis of the selected stock over the selected period
 ### 2.	The Return on Investment (ROI) of the stock over the selected time frame
 ### 3.	Share price information for the last 5 days
