@@ -33,15 +33,15 @@
 ### 3.	run the forecast
 
 ## In return you will get the following output after clicking on the run the forecast button:
-### 1.	Trend Analysis of the selected stock over the selected period
-### 2.	The Return on Investment (ROI) of the stock over the selected time frame
-### 3.	Share price information for the last 5 days
+1.	Trend Analysis of the selected stock over the selected period
+2.	The Return on Investment (ROI) of the stock over the selected time frame
+3.	Share price information for the last 5 days
 ### 4.	Option to download the share price data for the selected time range
 ### 5.	Model Forecast trend chart covering selected timeframe and the near future
 ### 6.	FB prophet share price trend forecast (with option to zoom in and out over specific time frame)
 ### 7.	Option to download the share price forecast data for the selected time range
 
-# Stock App Link : https://lawalstock-forecasting-app-blua22salmsjry2u5cdtjz.streamlit.app
+[Stock App Link](https://lawalstock-forecasting-app-blua22salmsjry2u5cdtjz.streamlit.app)
 
 # Report & Code Quality
 ### The code and the data is of high quality, the data is extracted from the website of a reputable and reliable organisation (Yahoo Finance).
